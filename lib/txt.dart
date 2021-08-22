@@ -32,7 +32,7 @@ class txt extends StatelessWidget {
               width: 100,
             ),
             Text(
-                'MAYUR BAG WORLD \n 470/59/4,6th A-Cross,\n Triveni Road,K.N.Extension,\n Yeshwanthpur,\n Banglore-560022 \nCALL- 9481460419,9482893981',
+                '',
                 style: TextStyle(
                     fontSize: 21,
                     height: 1.7,
